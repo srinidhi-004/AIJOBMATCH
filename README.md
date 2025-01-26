@@ -56,7 +56,10 @@ In this page it shows strong and weak points when we give a unmatching job and t
 # Video
 
 
-https://github.com/user-attachments/assets/092b2e81-3177-412e-a3d7-1e32d65f19e7
+
+https://github.com/user-attachments/assets/c8cea90f-67ed-4ba0-8e8c-7110517202f9
+
+
 
 
 The video demonstrates a user giving his skills as input and a job description to know whether it matches.then the progress bar shows the matching percentage with strong points,weak points and conclusion.
